@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std ;
+//dsa
 int reverse(vector<int> &vec){
     int result =0;
     int i=0 ; 
