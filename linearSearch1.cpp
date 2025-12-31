@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std ;
+//dsa
 int main(){
     vector<int>vec={1,2,3,5,4,5,6,3,2,6,1,};
     int target =4;
