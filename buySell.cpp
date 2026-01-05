@@ -13,6 +13,7 @@ int buysell( vector<int>vec){
     }
     return mp;
 }
+//main code
 int main (){
     vector<int> vec= { 7,1,5,3,6,4};
     
