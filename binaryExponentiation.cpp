@@ -11,6 +11,7 @@ int binary (int x , int n ){
         pow = pow *2;
 
     }
+    // binary form  of n is stored in bf 
 
    
     while (bf>0){
