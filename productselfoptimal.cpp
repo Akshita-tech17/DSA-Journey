@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+//code
 using namespace std ;
 vector<int>product(vector<int>&vec){
     int n =vec.size();
