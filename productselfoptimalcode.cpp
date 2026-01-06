@@ -17,6 +17,7 @@ vector<int>product(vector<int>&vec){
         
 return ans ;
 }
+//
 //main code
 int main (){
     vector<int> vec = { 1,2,3,4};
