@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+// start
 using namespace std ;
 vector<int>product(vector<int>&vec){
     vector<int>ans(4,1);
