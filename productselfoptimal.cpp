@@ -25,3 +25,4 @@ int main (){
         cout<<i<<" ";
     }
 }
+//time complexity O(n)
