@@ -51,4 +51,4 @@ int main(){
         vector<int>arr1= {1,1,2,2,5,3,3,4,4};
         cout<<"the single occuring element is "<<single(arr1);
     }
-    //o(logn)
+    //o(logn) 
