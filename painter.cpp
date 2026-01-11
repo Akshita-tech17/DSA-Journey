@@ -2,14 +2,14 @@
 #include<vector>
 using namespace std ;
 bool isvalid(vector<int>&num,int n, int m, int mid ) {
-    int painter =1 ,board=0;
+    int painter =1 ,time=0;
     for ( int i =0 ; i<n; i++){
-        if (( board+num[i]<=mid)){
-            board+=num[i];
+        if (( time+num[i]<=mid)){
+            time+=num[i];
         }
         else{
             painter++;
-            board=num[i];
+            time=num[i];
         }
 }
 if (painter>m){
@@ -52,5 +52,5 @@ int paint( vector<int>&num,int n, int m){
         vector<int>arr={40,30,10,20};
         int n = arr.size();
         int m =2;
-        cout<<"the minimum possible max pages are"<<paint(arr,n,m);
+        cout<<"the minimum possible max time in which all boards can be painted is"<<paint(arr,n,m);
     }
