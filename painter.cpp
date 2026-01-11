@@ -27,7 +27,7 @@ int paint( vector<int>&num,int n, int m){
     for ( int  i = 0 ; i<n ; i++ ){
         sum+= num[i];
     }
-    int st =0 ;
+    int st =num[0];
     int end= sum;
     int ans=-1;
     while(st<=end){
