@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std ;
+//main program
 int main(){
     int x,y;
     cout<< "enter the x coordinate";
