@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std ;
+//O(1)
 int main(){
     int x,y,z;
     cout<<"enter three numbers ";
