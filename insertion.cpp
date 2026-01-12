@@ -16,6 +16,7 @@ void print ( int arr[] , int n){
         cout<<arr[i]<<" ";
     }
 }
+//main code 
 
 int main(){
     int arr[] = { 4,1,5,2,3};
