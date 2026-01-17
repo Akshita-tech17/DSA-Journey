@@ -23,6 +23,7 @@ void sort( vector<int>&vec , int n ) {
             cout<<vec[i]<< " ";
         }
     }
+// main
 
 
 int main (){
