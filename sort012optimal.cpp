@@ -24,7 +24,7 @@ void sort( vector<int>&vec , int n ) {
         }
     }
 // main file
-//file
+//file  main 
 
 int main (){
     vector<int>vec={2,0,2,1,1,0};
