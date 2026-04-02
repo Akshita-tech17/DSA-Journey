@@ -21,4 +21,6 @@ int main(){
         }
 
     }
+    
 }
+/// 1. take three numbers as input from the user and find the greatest number among them.
